@@ -1,3 +1,4 @@
-value,data type
-1,int
+value,data_type
+1,bool
 hello world,str
+3.14,float
